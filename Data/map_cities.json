@@ -1,10 +1,10 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
-    "state": "NY",
+    "city": "Las Vegas",
+    "state": "LV",
     "region": "Northeast",
-    "updated_at":"2026-09-04T07:33:36.643+00:00"
+    "updated_at":"2026-09-05T07:33:36.643+00:00"
   },
   {
     "city_id": 2,
